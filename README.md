@@ -11,3 +11,5 @@ if you want to play <a href="https://chargedpika.github.io/Flappy-2048">flappy 2
 if you want the shooter game, <a href ="https://chargedpika.github.io/BananaBread/cube2/bb.html">do this one</a>
 
 mario can probably be found --><a href="http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html">here</a>
+
+wouldent ya know it, my proxy exists again. go here for it ---><a href="http://proxyv10.ga">thisssss</a>
