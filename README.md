@@ -1,2 +1,2 @@
 
-<img>favicon.ico 30x30<img>
+<img src="favicon.ico" alt="april fools tards">
