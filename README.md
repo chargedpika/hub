@@ -1,2 +1,1 @@
-
-<img src="https://github.com/chargedpika/hub/blob/master/Favicon.ico" alt="april fools tards">
+click here for the proxy <a href="https://raw.githubusercontent.com/chargedpika/hub/master/Favicon.ico">this</a>
